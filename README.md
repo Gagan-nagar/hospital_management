@@ -26,3 +26,10 @@ The *Hospital Management System* is a Java-based desktop application designed to
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/hospital_management.git
+   ## Steps to Run the Project
+
+1. Open the project in IntelliJ IDEA.
+2. Locate the HospitalManagementSystem.java file in the project_Hospital_management package.
+3. Right-click on the file and select *Run 'HospitalManagementSystem.main()'*.
+4. Ensure that the database connection is properly configured in the DatabaseConnection class before running the application.
+5. The application will launch, and you can navigate through its features.
